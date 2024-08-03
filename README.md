@@ -1,21 +1,13 @@
 # Predicting-The-Revenue-Of-Coffee-Shop-ShareMySoul
 Проект по предсказанию выручки кофейни "Делюсь душой" в МСК
 
-Название                                   | Содержание
--------------------------------------------|----------------------
-.ipynb   | главный скрипт
-
-
 ##                                                                    Описание
 
-Данные взяты из чемпионата инвесторов, где каждый из инвесторов в итоге занял какое-то место. Все инвесторы согласно этим местам были поделены на 5 классов.
-Нам нужно было научиться предсказывать этот класс по сделкам и начальному состоянию портфеля.
+Данные нам любезно предоставила кофейня "Делюсь Душой". 
 
-##                                                                    Дополнительно
-
-трулалалалалалалаллалалалалалалаллалал
 
 ## :paw_prints: Контакты
 
-**Telegram**: @suhowandrew, @nizovtsevanastya, @alina
-**VK**: [vk.com/suhowandrew](https://vk.com/suhowandrew), [vk.com/tusik_mrr](https://vk.com/tusik_mrr), [vk.com/alina_porotikova](https://vk.com/alina_porotikova)
+**Telegram**: @nizovtsevanastya
+
+**VK**: [vk.com/ivannikolaev1](https://m.vk.com/ivannikolaev1), [vk.com/tusik_mrr](https://vk.com/tusik_mrr), [vk.com/lild1tz](https://m.vk.com/lild1tz)
